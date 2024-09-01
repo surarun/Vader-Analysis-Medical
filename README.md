@@ -13,3 +13,5 @@ Minimal Preprocessing: Requires little to no preprocessing, making it user-frien
 -- Marketing: Gauging customer sentiment to inform strategies.
 -- Political Analysis: Monitoring public sentiment and predicting election outcomes.
 -- Social Research: Analyzing public opinion and societal trends
+
+In this Project, I have used Medical dataset from Kaggle (https://www.kaggle.com/datasets/arbazkhan971/analyticvidhyadatasetsentiment/discussion/239349) in order to analyze the sentiments of the people who are prescribed different drugs.Vader Analysis is one of the important models to analyze sentiments of People and is capable of analyzing tweets, emoticons by assigning predefined score. All the explanation is provided in the notebook along with example from medical dataset 
